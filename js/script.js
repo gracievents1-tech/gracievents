@@ -5,7 +5,7 @@
 // Example: 256772123456 (no +, spaces, or dashes).
 // =========================================================
 
-const GRACIEVENTS_WHATSAPP = "256700000000";
+const GRACIEVENTS_WHATSAPP = "256752651076";
 
 const $ = (selector, parent = document) => parent.querySelector(selector);
 const $$ = (selector, parent = document) => [...parent.querySelectorAll(selector)];
